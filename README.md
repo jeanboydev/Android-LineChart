@@ -50,8 +50,8 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[1]:https://github.com/jeanboydev/Android-LineChart/tree/master/resources/anim.gif
-[2]:https://github.com/jeanboydev/Android-LineChart/tree/master/resources/change.gif
-[3]:https://github.com/jeanboydev/Android-LineChart/tree/master/resources/operate.gif
-[4]:https://github.com/jeanboydev/Android-LineChart/tree/master/resources/Screenshot_20170613-183802.jpg
-[5]:https://github.com/jeanboydev/Android-LineChart/tree/master/resources/Screenshot_20170613-183803.jpg
+[1]:https://github.com/jeanboydev/Android-LineChart/blob/master/resources/anim.gif
+[2]:https://github.com/jeanboydev/Android-LineChart/blob/master/resources/change.gif
+[3]:https://github.com/jeanboydev/Android-LineChart/blob/master/resources/operate.gif
+[4]:https://github.com/jeanboydev/Android-LineChart/blob/master/resources/Screenshot_20170613-183802.jpg
+[5]:https://github.com/jeanboydev/Android-LineChart/blob/master/resources/Screenshot_20170613-183803.jpg
