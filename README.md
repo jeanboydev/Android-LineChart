@@ -9,6 +9,8 @@
 ![演示][4] ![演示][5]
 
 ## 使用
+
+1. 设置布局
 ```XML
 <HorizontalScrollView
     android:layout_width="match_parent"
@@ -30,13 +32,48 @@
 </HorizontalScrollView>
 ```
 
+2. 添加数据
+```Java
+lineChartView.setData(datas);
+```
+
+3. 修改Y轴标尺间隔
+```Java
+lineChartView.setRulerYSpace(value);
+```
+
+4. 修改X轴标尺间隔（锚点间距）
+```Java
+lineChartView.setStepSpace(value);
+```
+
+5. 设置是否显示表格
+```Java
+lineChartView.setShowTable(isShowTable);
+```
+
+6. 设置是否为贝塞尔曲线
+```Java
+lineChartView.setBezierLine(isBezier);
+```
+
+7. 设置锚点是否为方形
+```Java
+lineChartView.setCubePoint(isCube);
+```
+
+8. 播放动画
+```Java
+lineChartView.playAnim();
+```
+
 ## 关于我
 
 * Mail: jeanboy@foxmail.com
 
 ## License
 
-    Copyright 2015 jeanboy
+    Copyright 2017 jeanboy
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
