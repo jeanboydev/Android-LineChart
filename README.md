@@ -1,5 +1,9 @@
 # Android-LineChart
+
+![](https://img.shields.io/badge/platform-Android-brightgreen.svg) ![](https://img.shields.io/badge/language-java-yellow.svg) ![](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
+
 ## 介绍
+
 一个简单的折线，贝塞尔曲线图表控件，高度可扩展，支持动态显示。
 
 ## 效果图
